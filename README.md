@@ -1,6 +1,6 @@
 # Chingu Board - Voyage 43 - Team 45 💪
 
- Chingu Board was built by four software engineers over a six-week Chingu Voyage.
+Chingu Board was built by four distributed software engineers over a six-week Chingu Voyage. Over the six weeks, our team collaborated daily over Discord, we implemented a peer code review process plus git commit and pull request procedures. 
 
 # Badges
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/chingu-voyages/v43-tier3-team-45?style=plastic)
