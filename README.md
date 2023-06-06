@@ -43,11 +43,6 @@ The app consists of :
 * Backend is deployed on Raleway
 * Frontend is deployed on Vercel
 
-# File Structure
-```
-
- ```       
-
 ## Installation
 Using the command line, clone the repo on your machine
 ```
@@ -65,8 +60,6 @@ Install node and npm
 ```npm install
 ```
 
-
-
 *Note: The portfolio site will only work on your local machine while you have it running inside of your terminal. 
 
 ## Contributing
@@ -74,8 +67,6 @@ Install node and npm
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-# Visuals
 
 
 # Inspiration
